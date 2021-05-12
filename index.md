@@ -14,9 +14,7 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://psu.zoom.us/my/carrie.brown"
-  - venue: "Online"
-    address: "https://boisestate.zoom.us/j/3783842550"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -284,9 +282,14 @@ for more information.
 <hr/>
 
 <p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
-  <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+  <strong>Google Docs:</strong>
+<ul>
+  <li><a href="https://docs.google.com/document/d/1DQvm9ghPOCFrVLYXeaH7nwDP_dKRruVll1CsH6eObBo/edit">Day One - Morning</a></li>
+  <li><a href="">Day One - Afternoon</a></li>
+  <li><a href="">Day Two - Morning</a></li>
+  <li><a href="">Day One - Afternoon</a></li>
+</ul>
+  We will use these documents for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 {% endif %}
