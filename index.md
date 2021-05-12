@@ -279,8 +279,6 @@ for more information.
   e.g., '2015-06-10-esu'.
 -->
 
-<hr/>
-
 <p id="etherpad">
   <strong>Google Docs:</strong>
 <ul>
