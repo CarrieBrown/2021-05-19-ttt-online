@@ -14,7 +14,9 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/TBD"
+    address: "https://psu.zoom.us/my/carrie.brown"
+  - venue: "Online"
+    address: "https://boisestate.zoom.us/j/3783842550"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
