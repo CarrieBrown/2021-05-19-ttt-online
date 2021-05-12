@@ -278,7 +278,7 @@ for more information.
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 -->
-{% if page.etherpad %}
+
 <hr/>
 
 <p id="etherpad">
@@ -292,7 +292,7 @@ for more information.
   We will use these documents for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
-{% endif %}
+
 
 <h2 id="pre_workshop_survey">Surveys</h2>
 
